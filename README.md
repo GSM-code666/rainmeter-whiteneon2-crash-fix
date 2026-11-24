@@ -7,7 +7,6 @@ A lightweight, customizable macOS-style application dock for **Rainmeter**, engi
 * **0% Idle CPU Usage:** `HoverAnim.lua` automatically puts itself to sleep (`!DisableMeasure`) whenever the cursor leaves the dock and wakes on hover—consuming `0%` CPU while gaming or idling.
 * **Dynamic Icon Scaling (No Hardcoded Limits):** Automatically detects any number of `[MeterIconN]` entries (`MeterIcon1` through `MeterIcon100`) and reads their exact base `X`, `Y`, and `W` coordinates directly from `Dock.ini`.
 * **Legacy `ActionTimer` Removed:** Replaced heavy legacy `ActionTimer.dll` measures with a single clean Lua script to eliminate skin freezes and memory leaks.
-* **Optimized `128x128` Assets:** All PNG icons are downscaled to lightweight `128x128` square assets for instant rendering and low RAM footprint.
 * **Safe Double-Click Shutdown:** Built-in native double-click shutdown trigger (`conhost.exe --headless`) prevents accidental single-click shutdowns without console flashes or deprecated VBScript warnings.
 
 ## Installation
