@@ -31,5 +31,5 @@ A lightweight, customizable macOS-style application dock for **Rainmeter**, engi
 ## Credits & Attribution
 
 * **Original Skin:** Dock adapted from [WhiteNeon2](https://www.deviantart.com/shorbete/art/WhiteNeon2-944470230) by **shorbete**, originally based on the dock from **Simple Epoca** by **Hiphopium**.
-* **v1.1 Optimization & Lua Rewrite:** Rewritten hover animation engine (`HoverAnim.lua`), 0% idle auto-disable logic, `ActionTimer` removal, `128x128` asset optimization, and native double-click shutdown by **[GSM-code666](https://github.com/GSM-code666)**.
+* **v1.1 Optimization & Lua Rewrite:** Rewritten hover animation engine (`HoverAnim.lua`), 0% idle auto-disable logic, `ActionTimer` removal and native double-click shutdown by **[GSM-code666](https://github.com/GSM-code666)**.
 * **Disclaimer:** Shared free of cost for personal desktop customization. All third-party application logos remain the property of their respective trademark owners.
